@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Carta
+comment0.text=\ \r\n\ Clase\ Carta\:\ representa\ una\ carta\ de\ la\ baraja\ espa\u00F1ola.\r\n\ @author\ M\u00F3nica\ Jim\u00E9nez\ Candela\r\n\ version\ 1.0\ (november,\ 2017)\r\n
+comment1.params=palo\ valor
+comment1.target=Carta(int,\ int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=Carta()
+comment3.params=
+comment3.target=int\ getPalo()
+comment4.params=
+comment4.target=int\ getValor()
+comment5.params=
+comment5.target=void\ setPalo()
+comment6.params=
+comment6.target=void\ setValor()
+comment7.params=c
+comment7.target=boolean\ esMenor(Carta)
+comment8.params=
+comment8.target=Carta\ sigPalo()
+comment8.text=Construimos\ un\ metodo\ para\ devolver\ una\ nueva\ carta\ del\ mismo\ valor\ que\ la\ carta\ actual\ pero\ del\ \r\npalo\ siguiente
+comment9.params=o
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=11
